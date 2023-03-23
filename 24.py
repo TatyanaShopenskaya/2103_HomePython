@@ -40,17 +40,3 @@ print(array_sum)
 max_a = max_sum(array_sum)   #вызываю созданную функцию
 print('Максимальное количество ягод - ', max_a)
 
-
-
-# for i in array_sum:
-#     max=0
-#     if array_sum[i]>max:
-#         max=array_sum[i]
-#         i+=1
-#     else:
-#         print('no')  
-# print(max)
-
-		
-
-
